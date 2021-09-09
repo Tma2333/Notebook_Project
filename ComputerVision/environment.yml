@@ -1,0 +1,13 @@
+name: cv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - scipy
+  - numpy
+  - opencv
+  - scikit-learn
+  - scikit-image
+  - mahotas
