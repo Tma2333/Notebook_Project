@@ -1,7 +1,11 @@
+async-generator
+backports.functools-lru-cache
 certifi
 cytoolz
 dask
 fonttools
+importlib-metadata
+jupyter
 mahotas
 mkl-fft
 mkl-random
@@ -15,4 +19,3 @@ pyqtwebengine
 scikit-image
 scikit-learn
 sip
-tornado

@@ -11,3 +11,4 @@ dependencies:
   - scikit-learn
   - scikit-image
   - mahotas
+  - jupyter
